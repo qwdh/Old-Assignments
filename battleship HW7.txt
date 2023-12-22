@@ -1,0 +1,49 @@
+Turn 1
+O O O O O
+O O O O O
+O O O O O
+O O O O O
+O O O O O
+Guess Row (0-4): 1
+Guess Col (0-4): 4
+Turn 2
+O O O O O
+O O O O O
+O O O O O
+Guess Row (0-4): 3
+Guess Col (0-4): 4
+Congratulations! You sank my battleship!
+
+Turn 1
+O O O O O
+O O O O O
+O O O O O
+O O O O O
+O O O O O
+Guess Row (0-4): 2
+Guess Col (0-4): 2
+Turn 2
+O O O O O
+O O O O O
+O O X O O
+O O O O O
+O O O O O
+Guess Row (0-4): 2
+Guess Col (0-4): 3
+Turn 3
+O O O O O
+O O O O O
+O O X X O
+O O O O O
+O O O O O
+Guess Row (0-4): 2
+Guess Col (0-4): 4
+Turn 4
+O O O O O
+O O O O O
+O O X X X
+O O O O O
+O O O O O
+Guess Row (0-4): 2
+Guess Col (0-4): 1
+Game Over
